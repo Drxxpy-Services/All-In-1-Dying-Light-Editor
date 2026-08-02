@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries />
+  <UserdefinedSymbols />
+  <LuaScript>local pid = getProcessIDFromProcessName("DyingLightGame.exe")
+if pid ~= nil and pid ~= 0 then
+  openProcess(pid)
+else
+  showMessage("Start Dying Light, then reopen or attach this table.")
+end
+</LuaScript>
+</CheatTable>
