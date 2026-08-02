@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "CarParts1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarNitro1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 1,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarNitro2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 2,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarAlarm",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 3,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarRemoteControl",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 4,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarCage1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 5,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarCage2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 6,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarCage3",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 7,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarParts2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 8,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarMineLauncher",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 9,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarParts3",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 11,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarRammingBar1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 12,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarRammingBar2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 13,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarUVLights1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 14,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarUVLights2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 15,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarFuelTank1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 16,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarFuelTank2",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 17,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarSuspension",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 18,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarRepair1",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 19,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarParts4",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 20,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarElectricCage",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 21,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarFlamethrower",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 22,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CarParts5",
+    "category": "Driver",
+    "max_level": 1,
+    "tier": 23,
+    "points_type": "Driver",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Health2",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Health1",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 1,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Multithrow",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 2,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Stunning",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 3,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "combatprof1",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 4,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "WeaponProficiency",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 6,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Stomp",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 7,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ChargeAttack",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 8,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Overpowered2b",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 10,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ThrowableDamage",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 11,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "GroundPound2",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 12,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "combatprof2",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 13,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SpinAttack",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 14,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "GroundPound",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 15,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Health3",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 16,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "KillFrenzy",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 17,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SilentKill",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 18,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SpinAttack2",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 19,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StunAttacks",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 20,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Finisher",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 22,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "DeathFromAbove",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 23,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "UltimateFighter",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 24,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "WeaponThrow",
+    "category": "Fighter",
+    "max_level": 1,
+    "tier": 25,
+    "points_type": "Fighter",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "LegendSkill_UnarmedDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 0,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_OneHandedDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 1,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_TwoHandedDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 2,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_FirearmsDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 3,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_BowDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 4,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_ThrowingDamage",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 5,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_MaxStamina",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 6,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_MaxHealth",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 7,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_HealthRegeneration",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 8,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "LegendSkill_HealingEfficiency",
+    "category": "Legend",
+    "max_level": 25,
+    "tier": 9,
+    "points_type": "Legend",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel100",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel125",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel150",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel175",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel200",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel225",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel25",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel250",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel50",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_LegendLevel75",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "SkillNightmareAuto",
+    "category": "Legend_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "legend_skills.xml"
+  },
+  {
+    "id": "AutoSkill_ReputationLevel2",
+    "category": "Reputation",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Reputation",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "AutoSkill_ReputationLevel3",
+    "category": "Reputation",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Reputation",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "AutoSkill_ReputationLevel4",
+    "category": "Reputation",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Reputation",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "AutoSkillReputationLevel5",
+    "category": "Reputation",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Reputation",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Dodge",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "FastBreak",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 1,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Slide",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 2,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "HealthRegen1",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 3,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "runningprof1",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 4,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "NageWaza",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 5,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SafeLanding",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 6,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Lookback",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 8,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "FastBreak2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 9,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Tackle",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 10,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "LegBreaker",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 11,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "NageWaza2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 12,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "runningprof2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 13,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SafeLanding2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 14,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Tackle2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 15,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "DropKick2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 16,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "FastBreak3",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 17,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "WallRun",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 18,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "DropKick",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 19,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "HealthRegen2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 20,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "UltimateRunner",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 21,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "JumpOverZombie",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 22,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "JumpOverZombie2",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 23,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Momentum",
+    "category": "Runner",
+    "max_level": 1,
+    "tier": 99,
+    "points_type": "Runner",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "SkillStricterStaminaAuto",
+    "category": "Stamina_Auto",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "",
+    "source": "stamina_skills.xml"
+  },
+  {
+    "id": "Survival101",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 0,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BackpackUpgrade2",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 1,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BlueprintsKnives",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 2,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "Potions",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 3,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ShopDiscount1",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 4,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusHook",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 5,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BackpackUpgrade3",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 6,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BlueprintsGrenades",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 7,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusTraps1",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 8,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ShopDiscount2",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 9,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "RepairLuck",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 10,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusCamouflage",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 11,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BlueprintsFirecrackers",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 12,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusTraps2",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 13,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusShield",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 14,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ShopDiscount3",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 15,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "NimbleHands",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 16,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "craftingexpertise",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 17,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusShieldCrafting",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 18,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "BoostsExtender",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 19,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ElementalCrit",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 20,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "StatusCamouflage2",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 21,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "CraftingMaster",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 22,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "UltimateSurvivor",
+    "category": "Status",
+    "max_level": 1,
+    "tier": 23,
+    "points_type": "Status",
+    "source": "common_skills.xml"
+  },
+  {
+    "id": "ControlTheHordeSpitEnable",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 1,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ControlTheHordeSpitAmmo",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 2,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ControlTheHordeSpitDuration",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 3,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "LightDisableEnable",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 4,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "LightDisableAmmo",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 5,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "LightDisableDuration",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 6,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "DefensiveSmokeEnabled",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 7,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "DefensiveSmokeAmmo",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 8,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "DefensiveSmokeDuration",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 9,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieGroundPoundMovement",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 10,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieGroundPoundAirEnabled",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 11,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieGroundPoundKnockback",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 12,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieChargeAttack",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 13,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieChargeAttackKnockback",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 14,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieLeapfrog",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 15,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombiePounceSlam",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 16,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieSprintUpgrade",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 17,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ZombieRopeLocoUpgrade",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 18,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "SpitChargingEnabled",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 19,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "SpitGroundPoundEnabled",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 20,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "CamoSpitEnable",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 21,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "ToxicSpitEnable",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 22,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  },
+  {
+    "id": "UVHealEnable",
+    "category": "Zombie",
+    "max_level": 1,
+    "tier": 23,
+    "points_type": "",
+    "source": "zombie_skills.xml"
+  }
+]
